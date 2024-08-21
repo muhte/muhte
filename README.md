@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **nodejs,mongoDB,selenium**
 
-- 👯 I’m looking to collaborate on **kadınhepp**
-
 - 📫 How to reach me **muhteberaydinn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
